@@ -16,3 +16,11 @@
 2024-02-02 12:17:24,531 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\main\resources
 2024-02-02 12:17:24,535 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-02-02 12:17:24,535 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\test\resources
+2024-02-02 12:50:09,285 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:50:09,286 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\main\resources
+2024-02-02 12:50:09,288 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:50:09,288 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\test\resources
+2024-02-02 12:52:02,584 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:52:02,584 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\main\resources
+2024-02-02 12:52:02,586 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:52:02,586 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\test\resources
