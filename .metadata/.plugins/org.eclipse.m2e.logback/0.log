@@ -1,0 +1,18 @@
+2024-02-02 12:15:48,097 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-02 12:17:07,895 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Automation:Selenium:0.0.1-SNAPSHOT @ C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\pom.xml.
+2024-02-02 12:17:08,920 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:17:08,921 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\main\resources
+2024-02-02 12:17:08,924 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:17:08,924 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\test\resources
+2024-02-02 12:17:10,682 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:17:10,682 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\main\resources
+2024-02-02 12:17:10,685 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:17:10,686 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\test\resources
+2024-02-02 12:17:23,498 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:17:23,499 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\main\resources
+2024-02-02 12:17:23,502 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:17:23,502 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\test\resources
+2024-02-02 12:17:24,531 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:17:24,531 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\main\resources
+2024-02-02 12:17:24,535 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-02 12:17:24,535 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2119444\OneDrive - Cognizant\Documents\EclipseWorkSpace\New folder\firstProject\src\test\resources
